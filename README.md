@@ -29,7 +29,7 @@ Attendees will learn to apply multivariate data analysis and chemometric strateg
 
 ## Link[![](docs/images/pin.svg)](#link)
 
-[PLACEHOLDER FOR SHINY.IO LINK]
+To access SpectrApp, retrieve your personal link from the [Excel spreadsheet](./SpectrApp_links.xlsx)
 
 <div align="right"><kbd><a href="#table-of-contents">↑ Back to top ↑</a></kbd></div>
 
